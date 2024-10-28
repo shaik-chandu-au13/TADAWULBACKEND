@@ -1,0 +1,33 @@
+{
+  "pages": {
+    "ourMarkets": {
+      "mainMarket": [
+        "Main Market Watch",
+        "Opening/Closing Prices",
+        "Market Performance",
+        "Indices Performance",
+        "Issuers Trading Information"
+      ],
+      "Sukuk/Bonds": [
+        "Sukuk/Bond Market Watch",
+        "Indices Performance",
+        "Unlisted Government Sukuk/Bonds",
+        "Unlisted Corporate Sukuk/Bonds",
+        "Negotiated Deals"
+      ]
+    },
+    "Market News & Reports": {
+      "Issuer News": [],
+      "Issuer & Financial Advisor Announcements": [],
+      "Issuer Financial Calendars": [
+        "Dividends",
+        "General Assembly Meetings",
+        "Board of directors sessions",
+        "Corporate Actions"
+      ]
+    }
+  }
+}
+
+{Page1:{menu1:[submenu111,submenu112,submenu113]}
+}
